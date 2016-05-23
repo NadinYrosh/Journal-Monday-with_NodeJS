@@ -42,3 +42,5 @@ build/
 # Node #
 ########
 node_modules/
+bower_components/
+tmp/
